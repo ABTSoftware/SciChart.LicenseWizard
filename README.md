@@ -1,1 +1,1 @@
-# SciChart.LicenseWizard
+# SciChart.LicenseWizard - test
